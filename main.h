@@ -1,0 +1,1 @@
+#ifndef _MAIN_H_#define _MAIN_H_#include <ace/Handle_Set.h>#include <ace/SOCK_Acceptor.h>#include <ace/SOCK_Stream.h>#include <ace/Message_Block.h>#include <ace/CDR_Base.h>#include <ace/CDR_Stream.h>#include <iostream>#include <map>#define HOST "192.168.1.20"#define PORT "1234"#define null NULL#endif
